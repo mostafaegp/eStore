@@ -1,4 +1,4 @@
-# softagi
+# eStore
 
 # Splash
 
